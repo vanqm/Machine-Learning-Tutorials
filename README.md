@@ -232,7 +232,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - [Cross Validation vs Bootstrap to estimate prediction error](http://stats.stackexchange.com/questions/18348/differences-between-cross-validation-and-bootstrapping-to-estimate-the-predictio), [Cross-validation vs .632 bootstrapping to evaluate classification performance](http://stats.stackexchange.com/questions/71184/cross-validation-or-bootstrapping-to-evaluate-classification-performance)
    
 
-<a name="deep" />
+    <a name="deep" />
 ##Deep Learning
 - [A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Lots of Deep Learning Resources](http://deeplearning4j.org/documentation.html)
@@ -267,7 +267,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - [Introduction to Neural Machine Translation with GPUs (part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/), [Part 2](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/), [Part 3](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
     - [Deep Speech: Accurate Speech Recognition with GPU-Accelerated Deep Learning](http://devblogs.nvidia.com/parallelforall/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/)
 
-<a name="frame" />
+	<a name="frame" />
 - Deep Learning Frameworks
     - [Torch vs. Theano](http://fastml.com/torch-vs-theano/)
     - [dl4j vs. torch7 vs. theano](http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html)
